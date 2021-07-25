@@ -45,11 +45,11 @@ pip install argparse
 ![Mastering in OpenCV 4 with python](https://static.packt-cdn.com/products/9781789344912/cover/smaller)
 
 <!--Image-->
-##OpenCV 
+## OpenCV 
 <!--Links-->
 [Opencv Library Download](https://opencv.org/)
 ![Opencv Logo](https://opencv.org/wp-content/uploads/2020/07/cropped-OpenCV_logo_white_600x.png)
-##pycharm
+## pycharm
 [Pycharm IDE Download](https://www.jetbrains.com/pycharm/download/#section=windows)
 
 ![Pycharm Logo](https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png)
