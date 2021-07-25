@@ -38,7 +38,7 @@ pip install argparse
 |Mr.Chetan Londhe  |chetanlondhe1112@gmail.com|
 ---
 ---
-###Book using for study
+### Book using for study
 [Mastering OpenCV 4 with Python](https://www.packtpub.com/product/mastering-opencv-4-with-python/9781789344912)
 
 
