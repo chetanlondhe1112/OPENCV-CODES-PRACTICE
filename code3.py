@@ -15,7 +15,7 @@ parser.add_argument("Second_argument", help="Give a 2nd number", type=int)
 args = parser.parse_args()
 x = args.First_argument
 y = args.Second_argument
-g = x * y
+g = x + y
 # We get and print the first argument of this script:
 print("given 1st argument:", x)
 print("given 2nd argument:", y)
