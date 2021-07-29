@@ -8,7 +8,7 @@
 <!--Inline code bloack-->
 `This is my Opencv directory in which i learn opencv and how to 
 get developed in so this directory containes all the test codes 
-that performing in my pyacharm IDE as experiments.`
+that i'm performing in my pyacharm IDE as experiments.`
 ---
 **Installation of required packages**
 
