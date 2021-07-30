@@ -6,6 +6,6 @@ setup(
     name='opencv-codes-practice',
     version='0.4',
     description='run "python setup.py" to get all required libraries to get download',
-    long_description=open('requirements.rst')
+    long_description=open('requirements.txt')
 
 )

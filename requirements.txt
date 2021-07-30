@@ -1,0 +1,4 @@
+opencv-python~=4.5.3.56
+argparse~=1.4.0
+setuptools~=49.2.1
+imutils~=0.5.4

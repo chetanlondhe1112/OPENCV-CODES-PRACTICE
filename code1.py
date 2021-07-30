@@ -1,9 +1,9 @@
 import cv2
-import matplotlib as plt
+# import matplotlib as plt
 
 # reading image
-img=cv2.imread('umesh.png')
-img=cv2.resize(img, (400, 350))
+img = cv2.imread('umesh.png')
+img = cv2.resize(img, (400, 350))
 # getting dimension of image using shape
 dimensions = img.shape
 print(dimensions)
