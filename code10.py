@@ -3,6 +3,7 @@
 import cv2
 capture = cv2.VideoCapture(0)
 frame_index = 0
+# print(capture)
 if capture.isOpened() is False:
     print("error opening the camera")
 while 1:
