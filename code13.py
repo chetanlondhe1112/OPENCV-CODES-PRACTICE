@@ -1,4 +1,4 @@
-# importing the required modul
+# importing the required module
 import matplotlib.pyplot as plt
 
 # x axis values
