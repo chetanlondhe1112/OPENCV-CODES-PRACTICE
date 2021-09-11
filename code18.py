@@ -1,5 +1,8 @@
 import numpy as np
+import matplotlib.pyplot as plt
 import cv2
+
+image = np.zeros((800, 800, 3), dtype="uint8")
 
 def get_one_contour():
      cnts = [np.array([[[600, 320]], [[563, 460]], [[460, 562]], [[320, 600]], [[180, 563]],[[78, 460]],
@@ -13,3 +16,11 @@ print(contours)
 
 squeeze = np.squeeze(contours)
 print(squeeze)
+
+for p in squeeze:
+    tuple(p.reshape(1, -1)[0])
+    cv2.circle(image, p, 10,  (255, 0, 0), -1)
+
+plt.imshow(image)
+plt.title('Title')
+plt.show()
